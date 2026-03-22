@@ -1,5 +1,4 @@
 
-
 def counter(word):
     result = {}
     for i in word:
